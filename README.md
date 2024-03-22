@@ -1,1 +1,1 @@
-# Zabbix_template
+# Zabbix_Sensor_template KTH by SNMP
