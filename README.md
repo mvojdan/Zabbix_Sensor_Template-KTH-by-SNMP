@@ -1,4 +1,4 @@
-# Zabbix_Sensor_template KTH by SNMP
+# Zabbix template Sensor KTH by SNMP
  
  KTH is a brand that produces sensors for monitoring humidity and temperature in data centers
  
